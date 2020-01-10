@@ -1179,8 +1179,8 @@ const pages = [
       'React',
       'GraphQl',
       'GatsbyJs',
-    ]
-  }
+    ],
+  },
 ];
 
 export default pages;
