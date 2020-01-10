@@ -122,7 +122,6 @@ const PersonInner = styled.div`
       color: var(--vape);
       letter-spacing: 1px;
       font-size: 1.2rem;
-      word-break: break-all;
       :hover {
         color: var(--pink);
       }
